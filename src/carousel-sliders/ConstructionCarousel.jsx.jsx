@@ -2,7 +2,7 @@
 import React from 'react'
 import Carousel from 'better-react-carousel'
 
-const CarouselOne = () => {
+const ConstructionCarousel = () => {
     const responsive = [
         {
             breakpoint: 400,
@@ -57,4 +57,4 @@ const CarouselOne = () => {
     )
 }
 
-export default CarouselOne;
+export default ConstructionCarousel;
